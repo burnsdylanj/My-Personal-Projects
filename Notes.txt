@@ -1,0 +1,19 @@
+The idea here is to build a web scraper that mass collects information from footballdb.com
+
+Once it has collected a player's information from the website > save that information to a .json file
+
+Then create a quiz using Python and PyQt5 to display the information
+
+Example would be:
+
+QB
+Drafted in 2005 by the Green Bay Packers
+4 Time MVP
+1 Super Bowl 
+
+Each line would be displayed one at a time and there should be a button to ask for additional hints. 
+The first line displayed should always be the position/year and team the player was drafted.
+
+QB
+2005 by the Packers
+
