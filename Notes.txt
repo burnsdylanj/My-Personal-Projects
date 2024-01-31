@@ -8,8 +8,11 @@ Example would be:
 
 QB
 Drafted in 2005 by the Green Bay Packers
+Height
+Weight
 4 Time MVP
-1 Super Bowl 
+1 Super Bowl
+(Would continue on with all of his achievements)
 
 Each line would be displayed one at a time and there should be a button to ask for additional hints. 
 The first line displayed should always be the position/year and team the player was drafted.
